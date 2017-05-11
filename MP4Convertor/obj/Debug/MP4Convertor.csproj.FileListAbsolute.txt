@@ -1,0 +1,18 @@
+c:\users\nilao\documents\visual studio 2015\Projects\MP4Convertor\MP4Convertor\bin\Debug\MP4Convertor.exe.config
+c:\users\nilao\documents\visual studio 2015\Projects\MP4Convertor\MP4Convertor\obj\Debug\MP4Convertor.csprojResolveAssemblyReference.cache
+c:\users\nilao\documents\visual studio 2015\Projects\MP4Convertor\MP4Convertor\obj\Debug\MP4Convertor.Form1.resources
+c:\users\nilao\documents\visual studio 2015\Projects\MP4Convertor\MP4Convertor\obj\Debug\MP4Convertor.Properties.Resources.resources
+c:\users\nilao\documents\visual studio 2015\Projects\MP4Convertor\MP4Convertor\obj\Debug\MP4Convertor.csproj.GenerateResource.Cache
+c:\users\nilao\documents\visual studio 2015\Projects\MP4Convertor\MP4Convertor\bin\Debug\MP4Convertor.exe
+c:\users\nilao\documents\visual studio 2015\Projects\MP4Convertor\MP4Convertor\bin\Debug\MP4Convertor.pdb
+c:\users\nilao\documents\visual studio 2015\Projects\MP4Convertor\MP4Convertor\obj\Debug\MP4Convertor.exe
+c:\users\nilao\documents\visual studio 2015\Projects\MP4Convertor\MP4Convertor\obj\Debug\MP4Convertor.pdb
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\MP4 Tags Editor\MP4Convertor\obj\Debug\MP4Convertor.csprojResolveAssemblyReference.cache
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\MP4 Tags Editor\MP4Convertor\obj\Debug\MP4Convertor.Form1.resources
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\MP4 Tags Editor\MP4Convertor\obj\Debug\MP4TagsEditor.Properties.Resources.resources
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\MP4 Tags Editor\MP4Convertor\obj\Debug\MP4Convertor.csproj.GenerateResource.Cache
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\MP4 Tags Editor\MP4Convertor\bin\Debug\MP4 Tags Editor.exe.config
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\MP4 Tags Editor\MP4Convertor\bin\Debug\MP4 Tags Editor.exe
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\MP4 Tags Editor\MP4Convertor\bin\Debug\MP4 Tags Editor.pdb
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\MP4 Tags Editor\MP4Convertor\obj\Debug\MP4 Tags Editor.exe
+C:\Users\nilao\Documents\Visual Studio 2017\Projects\MP4 Tags Editor\MP4Convertor\obj\Debug\MP4 Tags Editor.pdb
